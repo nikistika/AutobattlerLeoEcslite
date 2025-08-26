@@ -164,8 +164,13 @@ MonoBehaviour:
     type: 3}
   WarRedPrefab: {fileID: 6165095905551540552, guid: 5471b04d5a79e6d4f831b36a3b9e0346,
     type: 3}
+  BlueTeamObject: {fileID: 1889225857}
+  RedTeamObject: {fileID: 1634891696}
   BlueTeamSpawnData: {fileID: 11400000, guid: 5719dc19ca2d856438d1c5e47751ccd2, type: 2}
   RedTeamSpawnData: {fileID: 11400000, guid: 7486b479776de534a8833bafe617935b, type: 2}
+  ArcherData: {fileID: 11400000, guid: 71fa9c8fec420684c9233395ff883bab, type: 2}
+  MageData: {fileID: 11400000, guid: 1a833b2abae6671498699e4445e49be7, type: 2}
+  WarData: {fileID: 11400000, guid: f7c65478c40e7da478a386ece9b49a0b, type: 2}
 --- !u!114 &168128635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -674,6 +679,6 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 566798707}
-  - {fileID: 1634891696}
   - {fileID: 1889225857}
+  - {fileID: 1634891696}
   - {fileID: 168128636}

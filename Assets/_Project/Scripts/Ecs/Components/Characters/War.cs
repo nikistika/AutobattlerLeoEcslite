@@ -1,4 +1,4 @@
-﻿namespace _Project.Scripts.Components.Characters
+﻿namespace _Project.Scripts.Ecs.Components.Characters
 {
     public struct War
     {
